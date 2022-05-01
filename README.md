@@ -1,6 +1,7 @@
 # score-test
 #Murad khudiyev
-include<iostream>
+##
+#include<iostream>
 using namespace std;
 int main() {
 	int a;
